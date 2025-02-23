@@ -1,1 +1,1 @@
-meio txt
+chomp
